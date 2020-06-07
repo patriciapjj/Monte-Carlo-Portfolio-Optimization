@@ -1,6 +1,7 @@
 # MC - Portfolio Optimization
 
 Let's start investing! Should I invest in a portfolio of companies or S&P500 ?
+
 Steps:
 - 1) Find the best stocks to buy from the U.S. market
 - 2) Compare those selected companies to stock indices, and filter companies with high return rate  
